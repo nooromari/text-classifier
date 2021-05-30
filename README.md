@@ -1,3 +1,3 @@
 # Machine Learning
 
-- lab14 PR : [link](https://github.com/nooromari/text-classifier/pull/1)
+- lab16 PR : [link](https://github.com/nooromari/text-classifier/pull/1)
